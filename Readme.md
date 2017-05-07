@@ -1,5 +1,9 @@
 Deep Karaoke source code
 ========================
+
+Download the MedleyDB Sample dataset and put it in the same folder as these files. Add the folder with these files to the MATLAB path or put these directly in the MATLAB folder
+
+========================
 This package contains the code for comparing the neural network and supervised nmf audio source separation methods as described in our article:
 
 A. J. Simpson, G. Roma and M.D. Plumbley, "Deep Karaoke: Extracting Vocals from Musical Mixtures Using a Convolutional Deep Neural Network," in Proceedings of the International Conference on Latent Variable Analysis and Signal Separation (LVA/ICA), Liberec, Czech Republic, 2015, 429-436.
