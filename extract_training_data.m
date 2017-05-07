@@ -1,5 +1,5 @@
-function extract_training_data(training_data_path, opt)
-% extract_training_data(training_data_path, opt)
+function extract_training_data(training_data_path, opt, num_training_songs)
+% extract_training_data(training_data_path, opt, num_training_examples)
 % extract training data from 50 songs in the dataset
 % if training_data_path points to an existing mat file, 
 % return its contents
@@ -17,7 +17,7 @@ function extract_training_data(training_data_path, opt)
         mix_frames = training_data.mix_frames;
         disp('loaded training data from disk');
     else
-        for track_id = 1:50
+        for track_id = 1:num_training_songs
             disp(track_id)
             track_data = get_analysis(opt.dataset, track_id, opt.FFT_SIZE, opt.HOP_SIZE);
             vocal_mag = abs(track_data.target_stft);

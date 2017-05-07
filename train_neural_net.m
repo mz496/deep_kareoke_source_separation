@@ -1,4 +1,4 @@
-function network = train_neural_net(training_data, neural_net_path, opt)
+function network = train_neural_net(training_data, neural_net_path, opt, num_training_examples_to_use)
     addpath('dk_dl_toolbox/NN')
     addpath('dk_dl_toolbox/util')
 
@@ -11,8 +11,8 @@ function network = train_neural_net(training_data, neural_net_path, opt)
         training_input = training_data.mix_frames' ./ max(max(training_data.mix_frames));
         training_output = ideal_binary_mask';
 
-        training_input = training_input(1:15000,:); % As in paper, crop to exactly 15k training examples
-        training_output = training_output(1:15000,:);
+        training_input = training_input(1:num_training_examples_to_use,:); % 15000 in original paper
+        training_output = training_output(1:num_training_examples_to_use,:);
 
         nn_opts.batchsize = 100; 
         nn_opts.plot = 0;

@@ -6,6 +6,7 @@ function [target_stems, other_stems] = load_stems(dataset, index)
     
     function audio = load_stem(stem)
         stem_path = strcat(dataset.base_path, stem);
+        disp(stem_path);
         audio = audioread( stem_path );
         audio = mean(audio,2);
     end
