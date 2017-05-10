@@ -1,9 +1,26 @@
-Deep Karaoke source code
-========================
+# Deep Karaoke source code
 
-Download the MedleyDB Sample dataset and put it in the same folder as these files. Add the folder with these files to the MATLAB path or put these directly in the MATLAB folder
+Instructions for initial use:
+1. Download the MedleyDB Sample dataset, name the folder `MedleyDB_sample`, and put it in the same folder as these files.
+2. Add the folder with these files to the MATLAB path or put these directly in the MATLAB folder.
+3. Run `runtest.m`
 
-========================
+# Todo list
+
+* [In progress] Grab a ton of (100?) a cappella and instrumental pairs off YouTube with youtube-dl
+* Mix each pair and (probably?) convert each one from stereo to mono
+* Translate each function to Python (numpy, TensorFlow), verify that it works i.e. produces the same output on the sample data
+* Set up TensorFlow on AWS EC2
+* Check how long it takes to learn one song on the AWS EC2 instance
+* Put the new dataset on AWS and train the NN on a proportion of data that will finish reasonably fast (80% if it's already fast)
+* Run trained NN and the nonnegative matrix factorization methods on the rest of the data using the same methods as the paper
+* Do statistical analysis using the same methods as the paper
+* Write script, record video
+* Publish video to YouTube
+* Write report using guidelines on Piazza
+
+# Original Readme
+
 This package contains the code for comparing the neural network and supervised nmf audio source separation methods as described in our article:
 
 A. J. Simpson, G. Roma and M.D. Plumbley, "Deep Karaoke: Extracting Vocals from Musical Mixtures Using a Convolutional Deep Neural Network," in Proceedings of the International Conference on Latent Variable Analysis and Signal Separation (LVA/ICA), Liberec, Czech Republic, 2015, 429-436.
