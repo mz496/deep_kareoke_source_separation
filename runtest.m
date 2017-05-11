@@ -24,9 +24,9 @@ num_training_examples_to_use = 100;
 
 % Training and model files will be created the first time 
 % and re-used subsequntly. Delete or move to re-create.
-training_data_path = '~/Sandbox/data/training.mat';
-model_path = '~/Sandbox/data/model.mat';
-results_path = '~/Sandbox/data/results/';
+training_data_path = '~/Volumes/Sandbox/data/training.mat';
+model_path = '~/Volumes/Sandbox/data/model.mat';
+results_path = '~/Volumes/Sandbox/data/results/';
 
 %% 1 Extract training data (common for both methods)
 extract_training_data(training_data_path, options, num_training_songs);

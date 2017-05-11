@@ -1,535 +1,22 @@
 {
-    "base_path": "~/Sandbox/newsongs/",
+    "base_path": "~/Volumes/Sandbox/newsongs/",
     "mixes": [
         {
-            "mix_path": "alignedsongs/Christina Perri - The Lonely/Christina Perri - The Lonely - Mix.wav",
+            "mix_path": "unalignedsongs/OneRepublic - If I Lose Myself/OneRepublic - If I Lose Myself - Mix.wav",
             "other_stems": [
-                "alignedsongs/Christina Perri - The Lonely/Christina Perri - The Lonely - Instrumentals.wav"
+                "unalignedsongs/OneRepublic - If I Lose Myself/OneRepublic - If I Lose Myself - Instrumental.wav"
             ],
             "target_stems": [
-                "alignedsongs/Christina Perri - The Lonely/Christina Perri - The Lonely - Vocals.wav"
+                "unalignedsongs/OneRepublic - If I Lose Myself/OneRepublic - If I Lose Myself - Vocals.wav"
             ]
         },
         {
-            "mix_path": "alignedsongs/R.E.M. - Horse to Water/R.E.M. - Horse to Water - Mix.wav",
+            "mix_path": "unalignedsongs/OneRepublic - All The Right Moves/OneRepublic - All The Right Moves - Mix.wav",
             "other_stems": [
-                "alignedsongs/R.E.M. - Horse to Water/R.E.M. - Horse to Water - Instrumentals.wav"
+                "unalignedsongs/OneRepublic - All The Right Moves/OneRepublic - All The Right Moves - Instrumental.wav"
             ],
             "target_stems": [
-                "alignedsongs/R.E.M. - Horse to Water/R.E.M. - Horse to Water - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Aerosmith - Crazy/Aerosmith - Crazy - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Aerosmith - Crazy/Aerosmith - Crazy - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Aerosmith - Crazy/Aerosmith - Crazy - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Soundgarden - Spoonman/Soundgarden - Spoonman - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Soundgarden - Spoonman/Soundgarden - Spoonman - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Soundgarden - Spoonman/Soundgarden - Spoonman - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Ariana Grande - Dangerous Woman/Ariana Grande - Dangerous Woman - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Ariana Grande - Dangerous Woman/Ariana Grande - Dangerous Woman - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Ariana Grande - Dangerous Woman/Ariana Grande - Dangerous Woman - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Counting Crows - Accidentally in Love/Counting Crows - Accidentally in Love - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Counting Crows - Accidentally in Love/Counting Crows - Accidentally in Love - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Counting Crows - Accidentally in Love/Counting Crows - Accidentally in Love - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Ariana Grande - Greedy/Ariana Grande - Greedy - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Ariana Grande - Greedy/Ariana Grande - Greedy - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Ariana Grande - Greedy/Ariana Grande - Greedy - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Guns N Roses - Street Of Dreams/Guns N Roses - Street Of Dreams - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Guns N Roses - Street Of Dreams/Guns N Roses - Street Of Dreams - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Guns N Roses - Street Of Dreams/Guns N Roses - Street Of Dreams - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Justin Bieber - As Long As You Love Me/Justin Bieber - As Long As You Love Me - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Justin Bieber - As Long As You Love Me/Justin Bieber - As Long As You Love Me - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Justin Bieber - As Long As You Love Me/Justin Bieber - As Long As You Love Me - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Red Hot Chili Peppers - If You Have to Ask/Red Hot Chili Peppers - If You Have to Ask - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Red Hot Chili Peppers - If You Have to Ask/Red Hot Chili Peppers - If You Have to Ask - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Red Hot Chili Peppers - If You Have to Ask/Red Hot Chili Peppers - If You Have to Ask - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/J. Cole - Lights Please/J. Cole - Lights Please - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/J. Cole - Lights Please/J. Cole - Lights Please - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/J. Cole - Lights Please/J. Cole - Lights Please - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Red Hot Chili Peppers - Give it Away/Red Hot Chili Peppers - Give it Away - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Red Hot Chili Peppers - Give it Away/Red Hot Chili Peppers - Give it Away - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Red Hot Chili Peppers - Give it Away/Red Hot Chili Peppers - Give it Away - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Maroon 5 - Moves Like Jagger/Maroon 5 - Moves Like Jagger - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Maroon 5 - Moves Like Jagger/Maroon 5 - Moves Like Jagger - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Maroon 5 - Moves Like Jagger/Maroon 5 - Moves Like Jagger - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Ariana Grande - Bad Decisions/Ariana Grande - Bad Decisions - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Ariana Grande - Bad Decisions/Ariana Grande - Bad Decisions - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Ariana Grande - Bad Decisions/Ariana Grande - Bad Decisions - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Red Hot Chili Peppers - The Greeting Song/Red Hot Chili Peppers - The Greeting Song - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Red Hot Chili Peppers - The Greeting Song/Red Hot Chili Peppers - The Greeting Song - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Red Hot Chili Peppers - The Greeting Song/Red Hot Chili Peppers - The Greeting Song - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/R.E.M. - Stand/R.E.M. - Stand - Mix.wav",
-            "other_stems": [
-                "alignedsongs/R.E.M. - Stand/R.E.M. - Stand - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/R.E.M. - Stand/R.E.M. - Stand - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Red Hot Chilli Peppers - Under the bridge/Red Hot Chilli Peppers - Under the bridge - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Red Hot Chilli Peppers - Under the bridge/Red Hot Chilli Peppers - Under the bridge - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Red Hot Chilli Peppers - Under the bridge/Red Hot Chilli Peppers - Under the bridge - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Soundgarden - Outshined/Soundgarden - Outshined - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Soundgarden - Outshined/Soundgarden - Outshined - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Soundgarden - Outshined/Soundgarden - Outshined - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Oasis - Champagne Supernova/Oasis - Champagne Supernova - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Oasis - Champagne Supernova/Oasis - Champagne Supernova - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Oasis - Champagne Supernova/Oasis - Champagne Supernova - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Paramore - Ain't It Fun/Paramore - Ain't It Fun - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Paramore - Ain't It Fun/Paramore - Ain't It Fun - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Paramore - Ain't It Fun/Paramore - Ain't It Fun - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Miley Cyrus - Party In The USA/Miley Cyrus - Party In The USA - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Miley Cyrus - Party In The USA/Miley Cyrus - Party In The USA - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Miley Cyrus - Party In The USA/Miley Cyrus - Party In The USA - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/The Airborne Toxic Event - Sometime Around Midnight/The Airborne Toxic Event - Sometime Around Midnight - Mix.wav",
-            "other_stems": [
-                "alignedsongs/The Airborne Toxic Event - Sometime Around Midnight/The Airborne Toxic Event - Sometime Around Midnight - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/The Airborne Toxic Event - Sometime Around Midnight/The Airborne Toxic Event - Sometime Around Midnight - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Ellie Goulding - Figure 8/Ellie Goulding - Figure 8 - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Ellie Goulding - Figure 8/Ellie Goulding - Figure 8 - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Ellie Goulding - Figure 8/Ellie Goulding - Figure 8 - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Justin Bieber - What Do You Mean/Justin Bieber - What Do You Mean - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Justin Bieber - What Do You Mean/Justin Bieber - What Do You Mean - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Justin Bieber - What Do You Mean/Justin Bieber - What Do You Mean - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Adele - Someone Like You/Adele - Someone Like You - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Adele - Someone Like You/Adele - Someone Like You - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Adele - Someone Like You/Adele - Someone Like You - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/R.E.M. - Man On The Moon/R.E.M. - Man On The Moon - Mix.wav",
-            "other_stems": [
-                "alignedsongs/R.E.M. - Man On The Moon/R.E.M. - Man On The Moon - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/R.E.M. - Man On The Moon/R.E.M. - Man On The Moon - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Red Hot Chili Peppers - My Lovely Man/Red Hot Chili Peppers - My Lovely Man - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Red Hot Chili Peppers - My Lovely Man/Red Hot Chili Peppers - My Lovely Man - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Red Hot Chili Peppers - My Lovely Man/Red Hot Chili Peppers - My Lovely Man - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/R.E.M. - Man Sized Wreath/R.E.M. - Man Sized Wreath - Mix.wav",
-            "other_stems": [
-                "alignedsongs/R.E.M. - Man Sized Wreath/R.E.M. - Man Sized Wreath - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/R.E.M. - Man Sized Wreath/R.E.M. - Man Sized Wreath - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/The Weeknd - What You Need/The Weeknd - What You Need - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/The Weeknd - What You Need/The Weeknd - What You Need - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/The Weeknd - What You Need/The Weeknd - What You Need - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Eminem - When I'm Gone/Eminem - When I'm Gone - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Eminem - When I'm Gone/Eminem - When I'm Gone - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Eminem - When I'm Gone/Eminem - When I'm Gone - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Zedd - I Want You To Know/Zedd - I Want You To Know - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Zedd - I Want You To Know/Zedd - I Want You To Know - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Zedd - I Want You To Know/Zedd - I Want You To Know - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/OneRepublic - Stop And Stare/OneRepublic - Stop And Stare - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/OneRepublic - Stop And Stare/OneRepublic - Stop And Stare - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/OneRepublic - Stop And Stare/OneRepublic - Stop And Stare - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Beyonce - End Of Time/Beyonce - End Of Time - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Beyonce - End Of Time/Beyonce - End Of Time - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Beyonce - End Of Time/Beyonce - End Of Time - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Train - Hey, Soul Sister/Train - Hey, Soul Sister - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Train - Hey, Soul Sister/Train - Hey, Soul Sister - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Train - Hey, Soul Sister/Train - Hey, Soul Sister - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Demi Lovato - This Is Me/Demi Lovato - This Is Me - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Demi Lovato - This Is Me/Demi Lovato - This Is Me - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Demi Lovato - This Is Me/Demi Lovato - This Is Me - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Imagine Dragons - Radioactive/Imagine Dragons - Radioactive - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Imagine Dragons - Radioactive/Imagine Dragons - Radioactive - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Imagine Dragons - Radioactive/Imagine Dragons - Radioactive - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Christina Perri - Jar of Hearts/Christina Perri - Jar of Hearts - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Christina Perri - Jar of Hearts/Christina Perri - Jar of Hearts - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Christina Perri - Jar of Hearts/Christina Perri - Jar of Hearts - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Zedd - Clarity/Zedd - Clarity - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Zedd - Clarity/Zedd - Clarity - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Zedd - Clarity/Zedd - Clarity - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Red Hot Chili Peppers - Scar Tissue/Red Hot Chili Peppers - Scar Tissue - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Red Hot Chili Peppers - Scar Tissue/Red Hot Chili Peppers - Scar Tissue - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Red Hot Chili Peppers - Scar Tissue/Red Hot Chili Peppers - Scar Tissue - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Ariana Grande - Break Free/Ariana Grande - Break Free - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Ariana Grande - Break Free/Ariana Grande - Break Free - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Ariana Grande - Break Free/Ariana Grande - Break Free - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Zedd - Stay The Night/Zedd - Stay The Night - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Zedd - Stay The Night/Zedd - Stay The Night - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Zedd - Stay The Night/Zedd - Stay The Night - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Yes - Roundabout/Yes - Roundabout - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Yes - Roundabout/Yes - Roundabout - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Yes - Roundabout/Yes - Roundabout - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/The Doobie Brothers - China Grove/The Doobie Brothers - China Grove - Mix.wav",
-            "other_stems": [
-                "alignedsongs/The Doobie Brothers - China Grove/The Doobie Brothers - China Grove - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/The Doobie Brothers - China Grove/The Doobie Brothers - China Grove - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Red Hot Chili Peppers - By The Way/Red Hot Chili Peppers - By The Way - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Red Hot Chili Peppers - By The Way/Red Hot Chili Peppers - By The Way - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Red Hot Chili Peppers - By The Way/Red Hot Chili Peppers - By The Way - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/The Doors - Hello I Love You/The Doors - Hello I Love You - Mix.wav",
-            "other_stems": [
-                "alignedsongs/The Doors - Hello I Love You/The Doors - Hello I Love You - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/The Doors - Hello I Love You/The Doors - Hello I Love You - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/The Doors - The Crystal Ship/The Doors - The Crystal Ship - Mix.wav",
-            "other_stems": [
-                "alignedsongs/The Doors - The Crystal Ship/The Doors - The Crystal Ship - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/The Doors - The Crystal Ship/The Doors - The Crystal Ship - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/REO Speedwagon - Roll with the Changes/REO Speedwagon - Roll with the Changes - Mix.wav",
-            "other_stems": [
-                "alignedsongs/REO Speedwagon - Roll with the Changes/REO Speedwagon - Roll with the Changes - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/REO Speedwagon - Roll with the Changes/REO Speedwagon - Roll with the Changes - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Katy Perry - Firework/Katy Perry - Firework - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Katy Perry - Firework/Katy Perry - Firework - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Katy Perry - Firework/Katy Perry - Firework - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/The Jackson 5 - Dancing Machine/The Jackson 5 - Dancing Machine - Mix.wav",
-            "other_stems": [
-                "alignedsongs/The Jackson 5 - Dancing Machine/The Jackson 5 - Dancing Machine - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/The Jackson 5 - Dancing Machine/The Jackson 5 - Dancing Machine - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Mariah Carey - Make It Happen/Mariah Carey - Make It Happen - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Mariah Carey - Make It Happen/Mariah Carey - Make It Happen - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Mariah Carey - Make It Happen/Mariah Carey - Make It Happen - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Ariana Grande - Everyday/Ariana Grande - Everyday - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Ariana Grande - Everyday/Ariana Grande - Everyday - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Ariana Grande - Everyday/Ariana Grande - Everyday - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Florence + The Machine - Dog Days Are Over/Florence + The Machine - Dog Days Are Over - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Florence + The Machine - Dog Days Are Over/Florence + The Machine - Dog Days Are Over - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Florence + The Machine - Dog Days Are Over/Florence + The Machine - Dog Days Are Over - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/Muse - Supermassive Black Hole/Muse - Supermassive Black Hole - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/Muse - Supermassive Black Hole/Muse - Supermassive Black Hole - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/Muse - Supermassive Black Hole/Muse - Supermassive Black Hole - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Three Days Grace - Animal I Have Become/Three Days Grace - Animal I Have Become - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Three Days Grace - Animal I Have Become/Three Days Grace - Animal I Have Become - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Three Days Grace - Animal I Have Become/Three Days Grace - Animal I Have Become - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/OneRepublic - Counting Stars/OneRepublic - Counting Stars - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/OneRepublic - Counting Stars/OneRepublic - Counting Stars - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/OneRepublic - Counting Stars/OneRepublic - Counting Stars - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "unalignedsongs/The Chainsmokers - Roses/The Chainsmokers - Roses - Mix.wav",
-            "other_stems": [
-                "unalignedsongs/The Chainsmokers - Roses/The Chainsmokers - Roses - Instrumental.wav"
-            ],
-            "target_stems": [
-                "unalignedsongs/The Chainsmokers - Roses/The Chainsmokers - Roses - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Bob Marley - Them Belly Full But We Hungry/Bob Marley - Them Belly Full But We Hungry - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Bob Marley - Them Belly Full But We Hungry/Bob Marley - Them Belly Full But We Hungry - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Bob Marley - Them Belly Full But We Hungry/Bob Marley - Them Belly Full But We Hungry - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Christina Perri - Arms/Christina Perri - Arms - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Christina Perri - Arms/Christina Perri - Arms - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Christina Perri - Arms/Christina Perri - Arms - Vocals.wav"
-            ]
-        },
-        {
-            "mix_path": "alignedsongs/Train - Drops of Jupiter/Train - Drops of Jupiter - Mix.wav",
-            "other_stems": [
-                "alignedsongs/Train - Drops of Jupiter/Train - Drops of Jupiter - Instrumentals.wav"
-            ],
-            "target_stems": [
-                "alignedsongs/Train - Drops of Jupiter/Train - Drops of Jupiter - Vocals.wav"
+                "unalignedsongs/OneRepublic - All The Right Moves/OneRepublic - All The Right Moves - Vocals.wav"
             ]
         },
         {
@@ -542,21 +29,174 @@
             ]
         },
         {
-            "mix_path": "alignedsongs/Soundgarden - Rusty Cage/Soundgarden - Rusty Cage - Mix.wav",
+            "mix_path": "unalignedsongs/Ariana Grande - Problem/Ariana Grande - Problem - Mix.wav",
             "other_stems": [
-                "alignedsongs/Soundgarden - Rusty Cage/Soundgarden - Rusty Cage - Instrumentals.wav"
+                "unalignedsongs/Ariana Grande - Problem/Ariana Grande - Problem - Instrumental.wav"
             ],
             "target_stems": [
-                "alignedsongs/Soundgarden - Rusty Cage/Soundgarden - Rusty Cage - Vocals.wav"
+                "unalignedsongs/Ariana Grande - Problem/Ariana Grande - Problem - Vocals.wav"
             ]
         },
         {
-            "mix_path": "alignedsongs/Red Hot Chili Peppers - Otherside/Red Hot Chili Peppers - Otherside - Mix.wav",
+            "mix_path": "unalignedsongs/Taylor Swift - Love Story/Taylor Swift - Love Story - Mix.wav",
             "other_stems": [
-                "alignedsongs/Red Hot Chili Peppers - Otherside/Red Hot Chili Peppers - Otherside - Instrumentals.wav"
+                "unalignedsongs/Taylor Swift - Love Story/Taylor Swift - Love Story - Instrumental.wav"
             ],
             "target_stems": [
-                "alignedsongs/Red Hot Chili Peppers - Otherside/Red Hot Chili Peppers - Otherside - Vocals.wav"
+                "unalignedsongs/Taylor Swift - Love Story/Taylor Swift - Love Story - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Gotye - Somebody That I Used To Know/Gotye - Somebody That I Used To Know - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Gotye - Somebody That I Used To Know/Gotye - Somebody That I Used To Know - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Gotye - Somebody That I Used To Know/Gotye - Somebody That I Used To Know - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Katy Perry - Firework/Katy Perry - Firework - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Katy Perry - Firework/Katy Perry - Firework - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Katy Perry - Firework/Katy Perry - Firework - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Zedd - Clarity/Zedd - Clarity - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Zedd - Clarity/Zedd - Clarity - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Zedd - Clarity/Zedd - Clarity - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Ariana Grande - Bad Decisions/Ariana Grande - Bad Decisions - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Ariana Grande - Bad Decisions/Ariana Grande - Bad Decisions - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Ariana Grande - Bad Decisions/Ariana Grande - Bad Decisions - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Eminem - When I'm Gone/Eminem - When I'm Gone - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Eminem - When I'm Gone/Eminem - When I'm Gone - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Eminem - When I'm Gone/Eminem - When I'm Gone - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Beyonce - Sweet Dreams/Beyonce - Sweet Dreams - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Beyonce - Sweet Dreams/Beyonce - Sweet Dreams - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Beyonce - Sweet Dreams/Beyonce - Sweet Dreams - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Justin Bieber - What Do You Mean/Justin Bieber - What Do You Mean - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Justin Bieber - What Do You Mean/Justin Bieber - What Do You Mean - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Justin Bieber - What Do You Mean/Justin Bieber - What Do You Mean - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Drake - Forever/Drake - Forever - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Drake - Forever/Drake - Forever - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Drake - Forever/Drake - Forever - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Zedd - True Colors/Zedd - True Colors - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Zedd - True Colors/Zedd - True Colors - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Zedd - True Colors/Zedd - True Colors - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/OneRepublic - Stop And Stare/OneRepublic - Stop And Stare - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/OneRepublic - Stop And Stare/OneRepublic - Stop And Stare - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/OneRepublic - Stop And Stare/OneRepublic - Stop And Stare - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Wiz Khalifa - No Sleep/Wiz Khalifa - No Sleep - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Wiz Khalifa - No Sleep/Wiz Khalifa - No Sleep - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Wiz Khalifa - No Sleep/Wiz Khalifa - No Sleep - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Maroon 5 - Payphone/Maroon 5 - Payphone - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Maroon 5 - Payphone/Maroon 5 - Payphone - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Maroon 5 - Payphone/Maroon 5 - Payphone - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Ariana Grande - Everyday/Ariana Grande - Everyday - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Ariana Grande - Everyday/Ariana Grande - Everyday - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Ariana Grande - Everyday/Ariana Grande - Everyday - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Ariana Grande - Dangerous Woman/Ariana Grande - Dangerous Woman - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Ariana Grande - Dangerous Woman/Ariana Grande - Dangerous Woman - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Ariana Grande - Dangerous Woman/Ariana Grande - Dangerous Woman - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Muse - Supermassive Black Hole/Muse - Supermassive Black Hole - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Muse - Supermassive Black Hole/Muse - Supermassive Black Hole - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Muse - Supermassive Black Hole/Muse - Supermassive Black Hole - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/The Chainsmokers - Roses/The Chainsmokers - Roses - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/The Chainsmokers - Roses/The Chainsmokers - Roses - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/The Chainsmokers - Roses/The Chainsmokers - Roses - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Beyonce - End Of Time/Beyonce - End Of Time - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Beyonce - End Of Time/Beyonce - End Of Time - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Beyonce - End Of Time/Beyonce - End Of Time - Vocals.wav"
             ]
         },
         {
@@ -569,30 +209,156 @@
             ]
         },
         {
-            "mix_path": "unalignedsongs/Ariana Grande - Problem/Ariana Grande - Problem - Mix.wav",
+            "mix_path": "unalignedsongs/Justin Bieber - As Long As You Love Me/Justin Bieber - As Long As You Love Me - Mix.wav",
             "other_stems": [
-                "unalignedsongs/Ariana Grande - Problem/Ariana Grande - Problem - Instrumental.wav"
+                "unalignedsongs/Justin Bieber - As Long As You Love Me/Justin Bieber - As Long As You Love Me - Instrumental.wav"
             ],
             "target_stems": [
-                "unalignedsongs/Ariana Grande - Problem/Ariana Grande - Problem - Vocals.wav"
+                "unalignedsongs/Justin Bieber - As Long As You Love Me/Justin Bieber - As Long As You Love Me - Vocals.wav"
             ]
         },
         {
-            "mix_path": "alignedsongs/Red Hot Chili Peppers - Breaking the Girl/Red Hot Chili Peppers - Breaking the Girl - Mix.wav",
+            "mix_path": "unalignedsongs/Sia - Elastic Heart/Sia - Elastic Heart - Mix.wav",
             "other_stems": [
-                "alignedsongs/Red Hot Chili Peppers - Breaking the Girl/Red Hot Chili Peppers - Breaking the Girl - Instrumentals.wav"
+                "unalignedsongs/Sia - Elastic Heart/Sia - Elastic Heart - Instrumental.wav"
             ],
             "target_stems": [
-                "alignedsongs/Red Hot Chili Peppers - Breaking the Girl/Red Hot Chili Peppers - Breaking the Girl - Vocals.wav"
+                "unalignedsongs/Sia - Elastic Heart/Sia - Elastic Heart - Vocals.wav"
             ]
         },
         {
-            "mix_path": "alignedsongs/Aerosmith - I Don't Want to Miss a Thing/Aerosmith - I Don't Want to Miss a Thing - Mix.wav",
+            "mix_path": "unalignedsongs/Imagine Dragons - Radioactive/Imagine Dragons - Radioactive - Mix.wav",
             "other_stems": [
-                "alignedsongs/Aerosmith - I Don't Want to Miss a Thing/Aerosmith - I Don't Want to Miss a Thing - Instrumentals.wav"
+                "unalignedsongs/Imagine Dragons - Radioactive/Imagine Dragons - Radioactive - Instrumental.wav"
             ],
             "target_stems": [
-                "alignedsongs/Aerosmith - I Don't Want to Miss a Thing/Aerosmith - I Don't Want to Miss a Thing - Vocals.wav"
+                "unalignedsongs/Imagine Dragons - Radioactive/Imagine Dragons - Radioactive - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/OneRepublic - Counting Stars/OneRepublic - Counting Stars - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/OneRepublic - Counting Stars/OneRepublic - Counting Stars - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/OneRepublic - Counting Stars/OneRepublic - Counting Stars - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/J. Cole - Love Yourz/J. Cole - Love Yourz - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/J. Cole - Love Yourz/J. Cole - Love Yourz - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/J. Cole - Love Yourz/J. Cole - Love Yourz - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/The Weeknd - What You Need/The Weeknd - What You Need - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/The Weeknd - What You Need/The Weeknd - What You Need - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/The Weeknd - What You Need/The Weeknd - What You Need - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/J. Cole - Lights Please/J. Cole - Lights Please - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/J. Cole - Lights Please/J. Cole - Lights Please - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/J. Cole - Lights Please/J. Cole - Lights Please - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Justin Bieber - Love Yourself/Justin Bieber - Love Yourself - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Justin Bieber - Love Yourself/Justin Bieber - Love Yourself - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Justin Bieber - Love Yourself/Justin Bieber - Love Yourself - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Ellie Goulding - Figure 8/Ellie Goulding - Figure 8 - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Ellie Goulding - Figure 8/Ellie Goulding - Figure 8 - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Ellie Goulding - Figure 8/Ellie Goulding - Figure 8 - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Zedd - I Want You To Know/Zedd - I Want You To Know - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Zedd - I Want You To Know/Zedd - I Want You To Know - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Zedd - I Want You To Know/Zedd - I Want You To Know - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Eminem - The Real Slim Shady/Eminem - The Real Slim Shady - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Eminem - The Real Slim Shady/Eminem - The Real Slim Shady - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Eminem - The Real Slim Shady/Eminem - The Real Slim Shady - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Ariana Grande - Greedy/Ariana Grande - Greedy - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Ariana Grande - Greedy/Ariana Grande - Greedy - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Ariana Grande - Greedy/Ariana Grande - Greedy - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/B.o.B. - Airplanes/B.o.B. - Airplanes - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/B.o.B. - Airplanes/B.o.B. - Airplanes - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/B.o.B. - Airplanes/B.o.B. - Airplanes - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Zedd - Stay The Night/Zedd - Stay The Night - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Zedd - Stay The Night/Zedd - Stay The Night - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Zedd - Stay The Night/Zedd - Stay The Night - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Maroon 5 - Moves Like Jagger/Maroon 5 - Moves Like Jagger - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Maroon 5 - Moves Like Jagger/Maroon 5 - Moves Like Jagger - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Maroon 5 - Moves Like Jagger/Maroon 5 - Moves Like Jagger - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Ariana Grande - Break Free/Ariana Grande - Break Free - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Ariana Grande - Break Free/Ariana Grande - Break Free - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Ariana Grande - Break Free/Ariana Grande - Break Free - Vocals.wav"
+            ]
+        },
+        {
+            "mix_path": "unalignedsongs/Miley Cyrus - Party In The USA/Miley Cyrus - Party In The USA - Mix.wav",
+            "other_stems": [
+                "unalignedsongs/Miley Cyrus - Party In The USA/Miley Cyrus - Party In The USA - Instrumental.wav"
+            ],
+            "target_stems": [
+                "unalignedsongs/Miley Cyrus - Party In The USA/Miley Cyrus - Party In The USA - Vocals.wav"
             ]
         }
     ]
