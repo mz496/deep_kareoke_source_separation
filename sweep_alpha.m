@@ -9,7 +9,7 @@ function sweep_alpha(method, model_path, results_path, opt)
     % comment out if you do not have the parallel toolbox
     delete(gcp);
     pool = parpool();    
-    parfor test_track = 56:70
+    parfor test_track = 31:40
         disp(test_track);
         gSDR=[]; gSIR=[]; gSAR=[];
         track_data = get_analysis(opt.dataset, test_track, opt.FFT_SIZE, opt.HOP_SIZE);  
